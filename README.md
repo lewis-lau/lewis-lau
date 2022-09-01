@@ -1,0 +1,5 @@
+- 👋 Hi, I’m lewis lau from China.
+- 👀 I’m loving R&D projects.
+- 🌱 I’m currently operating a hardware&software IDH
+- 💞️ I’m looking to collaborate on android based customized electronic projects,like tablets/phones/smart home /POWER unit/industrial products etc.
+- 📫 if you have DIY projects ,want to make them to a product through China hardware supply chain, reach me by lewis-lau@qq.com
